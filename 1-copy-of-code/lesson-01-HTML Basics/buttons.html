@@ -31,9 +31,20 @@
         border-radius: 2px;
         cursor: pointer;
       }
+
+      .tweet-button {
+        background-color: blue;
+        color: white;
+        border: none;
+        height: 36px;
+        width: 70px;
+        /* A trick to get the button to have perfectly round edges is to set the border-radius to HALF of it's width or height (whichever is the lowest). So in this case, half of the heights value (36px) is 18px for the border-radius. */
+        border-radius: 18px;
+      }
     </style>
 
     <button class="subscribe-button">SUBSCRIBE</button>
     <button class="join-button">JOIN</button>
+    <button class="tweet-button">Tweet</button>
   </body>
 </html>
