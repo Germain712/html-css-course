@@ -11,6 +11,7 @@
 
 .middle-section {
   background-color: lightpink;
+  flex: 1;
 }
 
 .right-section {
