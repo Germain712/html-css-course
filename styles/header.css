@@ -29,6 +29,16 @@
   max-width: 500px;
 }
 
+.search-button {
+  height: 40px;
+  width: 60px;
+}
+
+.voice-search-button {
+  height: 40px;
+  width: 40px;
+}
+
 .right-section {
   background-color: lightblue;
   width: 200px;
