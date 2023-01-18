@@ -11,6 +11,14 @@
   border: solid red 1px;
 }
 
+.hamburger-menu {
+  height: 20px;
+}
+
+.youtube-logo {
+  height: 20px;
+}
+
 .middle-section {
   background-color: lightpink;
   flex: 1;
