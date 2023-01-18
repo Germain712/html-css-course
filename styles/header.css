@@ -30,6 +30,10 @@
   align-items: center;
 }
 
+.search-bar {
+  flex: 1;
+}
+
 .search-button {
   height: 40px;
   width: 60px;
