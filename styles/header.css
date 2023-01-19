@@ -20,9 +20,7 @@
 }
 
 .middle-section {
-  background-color: lightpink;
   flex: 1;
-  border: solid red 1px;
   margin-left: 70px;
   margin-right: 35px;
   max-width: 500px;
@@ -32,9 +30,12 @@
 
 .search-bar {
   flex: 1;
-  height: 34px;
+  height: 36px;
   padding-left: 10px;
   font-size: 16px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(192, 192, 192);
 }
 
 .search-bar::placeholder {
