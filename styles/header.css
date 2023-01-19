@@ -53,6 +53,7 @@
   border-style: solid;
   border-color: rgb(192, 192, 192);
   margin-left: -1px;
+  margin-right: 10px;
 }
 
 .search-icon {
