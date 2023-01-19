@@ -50,6 +50,11 @@
   width: 60px;
 }
 
+.search-icon {
+  height: 25px;
+  margin-top: 4px;
+}
+
 .voice-search-button {
   height: 40px;
   width: 40px;
