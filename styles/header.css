@@ -79,3 +79,19 @@
   width: 200px;
   border: solid red 1px;
 }
+
+.upload-icon {
+  height: 24px;
+}
+
+.youtube-apps-icon {
+  height: 24px;
+}
+
+.notifications-icon {
+  height: 24px;
+}
+
+.current-user-picture {
+  height: 32px;
+}
