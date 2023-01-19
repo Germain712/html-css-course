@@ -75,7 +75,6 @@
 }
 
 .right-section {
-  background-color: lightblue;
   width: 180px;
   border: solid red 1px;
   display: flex;
@@ -97,4 +96,5 @@
 
 .current-user-picture {
   height: 32px;
+  border-radius: 16px;
 }
