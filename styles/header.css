@@ -105,6 +105,14 @@
   height: 24px;
 }
 
+.notifications-icon-container {
+  position: relative;
+}
+
+.notifications-count {
+  position: absolute;
+}
+
 .current-user-picture {
   height: 32px;
   border-radius: 16px;
