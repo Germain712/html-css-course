@@ -12,6 +12,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 
 .sidebar-link:hover {
@@ -20,4 +21,7 @@
 
 .sidebar-link img {
   height: 24px;
+}
+
+.sidebar-link div {
 }
