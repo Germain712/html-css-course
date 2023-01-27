@@ -9,6 +9,8 @@
 
 .sidebar-link {
   height: 76px;
+  display: flex;
+  justify-content: center;
 }
 
 .sidebar-link:hover {
