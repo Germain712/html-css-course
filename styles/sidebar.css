@@ -8,7 +8,7 @@
 }
 
 .sidebar-link {
-  height: 76px;
+  height: 74px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,6 +21,7 @@
 
 .sidebar-link img {
   height: 24px;
+  margin-bottom: 4px;
 }
 
 .sidebar-link div {
