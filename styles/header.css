@@ -68,6 +68,8 @@
 
 .search-button,
 .voice-search-button {
+  display: flex;
+  justify-content: center;
   position: relative;
 }
 
