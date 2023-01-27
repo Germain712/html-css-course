@@ -75,6 +75,11 @@
   border-radius: 2px;
   font-size: 12px;
   bottom: -30px;
+  opacity: 0;
+}
+
+.search-button:hover .tooltip {
+  opacity: 1;
 }
 
 .search-icon {
