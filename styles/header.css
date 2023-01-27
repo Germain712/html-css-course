@@ -68,6 +68,8 @@
 }
 
 .search-button .tooltip {
+  position: absolute;
+  background-color: red;
 }
 
 .search-icon {
